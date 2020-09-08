@@ -15,4 +15,4 @@ var lname = prompt("Wat is je achternaam?");
 var age = prompt("Wat is je leeftijd?");
 
 //zorgt ervoor dat de gegevens op de site worden latenzien
-document.write("jij bent " +fname+ " "+ lname + " " + "en je bent "+ age + " jaar oud");
+document.write("jij bent " +fname+ " "+ lname + " " + "en je bent "+ age + " jaar oud!");
