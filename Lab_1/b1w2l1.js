@@ -1,6 +1,7 @@
 // begin hier je JavaScript commandos
 
-//Damian Vaartmans 99061149
+//Damian Vaartmans 
+//99061149
 //Software Developer
 
 
